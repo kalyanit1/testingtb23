@@ -2,7 +2,14 @@ package git_;
 
 public class demo_git {
 
-
+       public void m6()
+	{
+		System.out.println("this is m6")
+	}
+	public void m7()
+	{
+		System.out.println("this is m7)
+	}
 	public void  m1()
 	{
 		System.out.println("this is m1");
