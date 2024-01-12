@@ -49,5 +49,9 @@ public void  m11()
 		System.out.println("git");
 
 	}
+	public void  m()
+	{
+		System.out.println("this is testing");
+	}
 
 }
