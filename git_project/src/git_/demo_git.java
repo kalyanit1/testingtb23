@@ -38,6 +38,11 @@ public class demo_git {
 	{
 		System.out.println("this is m10");
 	}
+public void  m11()
+	{
+		System.out.println("this is m11");
+	}
+	
 	public static void main(String[] args) 
 	{
 		System.out.println("hello git");
